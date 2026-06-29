@@ -1,6 +1,6 @@
 # =================================================================
 # 1. SCANNERS GLOBAIS DE VULNERABILIDADE (Censys, Shodan, Shadowserver)
-# Redes usadas para mapear portas abertas (como a sua 1521 ou 8080)
+# Redes usadas para mapear portas abertas 
 # =================================================================
 45.198.224.0/24
 64.62.156.0/24
@@ -17,7 +17,7 @@
 
 # =================================================================
 # 2. INFRAESTRUTURAS ASIÁTICAS (Ataques na Porta 8080 e Painéis Web)
-# Redes da China, Hong Kong e Coreia que geraram alertas na sua WAN
+# Redes da China, Hong Kong e Coreia
 # =================================================================
 42.236.150.0/24
 43.128.149.0/24
@@ -180,7 +180,7 @@
 
 # =================================================================
 # 4. REDES LINODE / AKAMAI INTERNACIONAIS
-# Faixas americanas pegas no flagrante disparando Portscan no pfSense
+# Faixas americanas pegas no flagrante
 # =================================================================
 97.107.131.0/24
 172.233.20.0/24
